@@ -1,0 +1,58 @@
+{
+  "grocery": [
+    {
+      "id": 1686739105277,
+      "title": "Cola",
+      "quantity": 5,
+      "checked": false
+    },
+    {
+      "id": 1686739108221,
+      "title": "Bread",
+      "quantity": 1,
+      "checked": false
+    },
+    {
+      "id": 1686739113680,
+      "title": "Snickers",
+      "quantity": 3,
+      "checked": true
+    },
+    {
+      "id": 1686739119786,
+      "title": "Milk",
+      "quantity": 1,
+      "checked": true
+    },
+    {
+      "id": 1686739149264,
+      "title": "Meat",
+      "quantity": 2,
+      "checked": false
+    },
+    {
+      "id": 1686739170921,
+      "title": "Chicken",
+      "quantity": 1,
+      "checked": false
+    },
+    {
+      "id": 1686739479647,
+      "title": "Corn",
+      "quantity": 1,
+      "checked": false
+    },
+    {
+      "id": 1686739591009,
+      "title": "Soda",
+      "quantity": 1,
+      "checked": false
+    },
+    {
+      "id": 1686739683100,
+      "title": "Nust",
+      "quantity": 2,
+      "checked": false
+    }
+  ]
+}
